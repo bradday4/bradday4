@@ -1,8 +1,10 @@
 <h1 align="center">Hi 👋, I'm Brad</h1>
-<h2 align="center"> I enjoy working at the cross section of signal processing, hardware, and health.</h2>
-<h3 align="left"> 🏫 UH Grad - Computational Health Informatics M.S.</h3>
+<h2 align="left"> I enjoy working at the cross section of signal processing, hardware, and health.</h2>
+<h3 align="left">🏢 Currently Working <a href="https://www.instapathbio.com/">@Instapath</a>  as a Product Engineer.</h3>
 
 ---
+
+- 🏫 UH Grad - Computational Health Informatics M.S
 
 - 📫 How to reach me **bradday4@gmail.com**
 
